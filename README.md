@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/sillyaurora/Desktop-Translucence/master/Deskto
 
 #### Main chat area
 
-![discord-101](https://ibb.co/yqswnv7)
+![discord-101](https://i.ibb.co/gJg5Mqh/Capture.png)
 
 #### User server info
 
