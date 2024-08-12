@@ -1,10 +1,12 @@
-**PLEASE NOTICE: THIS IS NOT MINE AND CREDIT TO THE OWNER OF THIS THEME.**
-# Translucence Theme - Support them the main owners of this theme! [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url]
-#### A translucent/frosted glass Discord theme
+# ⚠️ Please Notice, this is a recoded version of CapnKitten Translucent Theme. This is mine but credit for CapnKitten for the code and got rewritten by me. Its my own version so dont harass Him/Her about this. Thanks
+# Translucence Theme - Support them the main owners of this theme!
+CapnKitten Websites:[![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url]
+NotAurora Website: [![Github][github-logo]][github-url-2] [![Discord][discord-logo]][discord-url-2]
+#### A translucent/frosted desktop feel Discord theme
 <hr>
 
 Current version: v1.1 
-Custom Version: (Vencord is now supported, i will try to support bunny and betterdiscord.)
+Custom Version: (Vencord and BetterDiscord is now supported, i will try to support bunny.)
 
 BetterDiscord: [Download](https://download1586.mediafire.com/sciniafe79bgimAnvP0I85Yt_sXR060ZGMVE4V24EgJXOyVAr_uVXdXFymUnMO-tyuoZkqm-lkZOnDPKhlyrB41N613n9cSxJgBlnc-otZpnW7PHW5zcqZx-zm9r3isiDysVTDXypfEHwfWKW1DRi-3532jDfmYSQme1EgML71lwRg/ap9fdeuquqf3qcr/Desktop-Translucent.theme.css) (it has bugs because its not officially released so use it on your own risk!)
 
@@ -42,3 +44,6 @@ To edit, please go to the main [github page](https://github.com/CapnKitten/Trans
 
 [discord-logo]: https://img.shields.io/static/v1?label=Discord&message=Server&style=flat&logo=discord&color=blue
 [discord-url]: https://discord.gg/jzJkA6Z
+
+[github-url-2]: https://github.com/sillyaurora
+[discord-url-2]: https://discord.gg/eBBRpUq3SU
