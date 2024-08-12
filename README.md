@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/sillyaurora/Desktop-Translucence/master/Deskto
 
 ## Variables
 
-To edit, please go to the main github page.
+To edit, please go to the main [github page](https://github.com/CapnKitten/Translucence).
  
 [paypal-logo]: https://img.shields.io/static/v1?label=PayPal&message=Donate&style=flat&logo=paypal&color=blue
 [paypal-url]: https://paypal.me/capnkitten
