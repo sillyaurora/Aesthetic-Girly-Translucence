@@ -1,5 +1,5 @@
 **PLEASE NOTICE: THIS IS NOT MINE AND CREDIT TO THE OWNER OF THIS THEME.**
-# Translucence Theme - Support them the owners! [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url]
+# Translucence Theme - Support them the main owners of this theme! [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url]
 #### A translucent/frosted glass Discord theme
 <hr>
 
@@ -18,79 +18,19 @@ https://raw.githubusercontent.com/sillyaurora/Desktop-Translucence/master/Deskto
 
 #### User server info
 
-![discord-102](https://user-images.githubusercontent.com/4013216/125158363-b7a1fa80-e13e-11eb-91c0-b95c32b5bf8e.png)
+![discord-102](https://i.ibb.co/LJZT8sS/User-Server-Info.png)
 
 #### User info popout
 
-![discord-103](https://user-images.githubusercontent.com/4013216/125158368-bc66ae80-e13e-11eb-912b-7d19a84f42a0.png)
+![discord-103](https://i.ibb.co/Jqmrb9t/User-Info-Pop-Out.png)
 
 #### User settings
 
-![discord-104](https://user-images.githubusercontent.com/4013216/125158372-c25c8f80-e13e-11eb-9165-e24880bc47f7.png)
-
-#### DMs
-
-![discord-105](https://user-images.githubusercontent.com/4013216/125158378-c8527080-e13e-11eb-9ad5-a7f2e229ac2b.png)
+![discord-104](https://i.ibb.co/mRXb2WC/Settings.png)
 
 ## Variables
 
-#### App elements
- - `--app-bg` - The background image for the entire Discord app. Default: `url(https://i.imgur.com/U8bSjj5.jpg)`
- - `--app-blur` - The strength of the blur for every element that has one. Default: `6px`
- - `--app-margin` - The margin surrounding the content area. Default: `24px`
- - `--app-radius` - The border radius of the app and every element that has a border radius. Default: `8px`
- - `--sidebar-color` - The background color of the sidebars. Default: `rgba(0,0,0, 0.4)`
- - `--main-content-color` - The background color of the main content areas. Default: `rgba(0,0,0, 0.2)`
-
-#### Accent color
- - `--accent-hue` - The hue value for the accent color of the theme. Default: `156`
- - `--accent-saturation` - The saturation value for the accent color of the theme. Default: `77.5%`
- - `--accent-lightness` - The lightness value for the accent color of the theme. Default: `47.1%`
- - `--accent-opacity` - The opacity of everything, excluding text, that uses the accent color. Default: `1`
- - `--accent-text-color` - The text color for buttons and other various elements with the accent background color. Default: `#000`
-
-#### Messages
- - `--message-color` - The background color for messages. Default: `rgba(0,0,0, 0.4)`
- - `--message-radius` - The border radius for messages. Default: `8px`
- - `--message-padding-top` - The top and bottom padding for messages. Default: `8px`
- - `--message-padding-side` - The left and right padding for messages. Default: `8px`
- - `--mention-hue` - The hue value for the message mention color. Default: `156`
- - `--mention-saturation` - The saturation value for the message mention color. Default: `77.5%`
- - `--mention-lightness` - The lightness value for the message mention color. Default: `47.1%`
- - `--mention-opacity` - The opacity of the message mention color. Default: `1`
- - `--reply-hue` - The hue value for the reply message color. Default: `226`
- - `--reply-saturation` - The saturation value for the reply message color. Default: `77.6%`
- - `--reply-lightness` - The lightness value for the reply message color. Default: `61.8%`
- - `--reply-opacity` - The opacity of the reply message color. Default: `1`
-
-#### Textareas and inputs
- - `--textarea-color` - The background color for any textareas and inputs. Default: `0,0,0`
- - `--textarea-alpha` - The opacity for any textareas and inputs. Default: `0.15`
- - `--textarea-text-color` - The text color for textareas and inputs. Default: `#fff`
- - `--textarea-radius` - The border radius for textareas (not inputs). Default: `22px`
- - `--input-height` - The height for inputs. Default: `36px`
- - `--input-radius` - The border radius for inputs (not textareas). Default: `18px`
-
-#### Cards
- - `--card-color` - The background color for cards. Default: `rgba(0,0,0, 0.4)`
- - `--card-color-hover` - The background color for hovering over cards (if there is a hover animation). Default: `rgba(0,0,0, 0.5)`
- - `--card-radius` - The border radius for cards. Default: `8px`
-
-#### Buttons
- - `--button-height` - The height for buttons. Default: `32px`
- - `--button-padding` - The padding for buttons. Default: `0 16px`
- - `--button-color` - The background color for most buttons. Default: `#d73d3d`
- - `--button-action-color` - The background color for hovering and clicking on buttons (has a lowered opacity). Default: `#000`
- - `--button-text-color` - The text color for any buttons that use `--button-color`. Default: `#000`
- - `--button-radius` - The border radius for buttons. Default: `8px`
-
-#### Popouts and modals
- - `--popout-color` - The background color for modals/popouts. Default: `rgba(0,0,0, 0.55)`
- - `--popout-blur` - The blur strength for modals/popouts. Default: `5px`
- - `--popout-header-opacity` - The header opacity for modals/popouts. Default: `0.3`
- - `--popout-header-shadow`- The shadow for headers in modals/popouts. Default: `0px 3px 9px 0px rgba(0,0,0, 0.25)`
- - `--popout-radius` - The border radius for modals/popouts. Default: `8px`
- - `--popout-shadow` - The shadow for modals/popouts. Default: `0 8px 10px 1px rgba(0,0,0, 0.14)`
+To edit, please go to the main github page.
  
 [paypal-logo]: https://img.shields.io/static/v1?label=PayPal&message=Donate&style=flat&logo=paypal&color=blue
 [paypal-url]: https://paypal.me/capnkitten
