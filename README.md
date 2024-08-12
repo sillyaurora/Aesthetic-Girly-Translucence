@@ -1,21 +1,9 @@
 **PLEASE NOTICE: THIS IS NOT MINE AND CREDIT TO THE OWNER OF THIS THEME.**
-# Translucence Theme - Support them! [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url]
+# Translucence Theme - Support them the owners! [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url]
 #### A translucent/frosted glass Discord theme
 <hr>
 
-Current version: v1.0.6.3 (26/02/2021)
-
-Normal Version:
-
-[BetterDiscord download](https://betterdiscord.app/theme/Translucence)
-<br>
-[View source files](https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Translucence)
-
-Vencord link
-```
-https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css
-```
-
+Current version: v1.1 
 Custom Version: (Vencord is now supported, i will try to support bunny and betterdiscord.)
 
 Vencord link
