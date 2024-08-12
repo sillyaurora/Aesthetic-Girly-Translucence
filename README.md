@@ -1,4 +1,5 @@
-# Translucence Theme - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url]
+**PLEASE NOTICE: THIS IS NOT MINE AND CREDIT TO THE OWNER OF THIS THEME.**
+# Translucence Theme - Support them! [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url]
 #### A translucent/frosted glass Discord theme
 <hr>
 
