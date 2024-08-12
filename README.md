@@ -1,9 +1,10 @@
 ![discord-101](https://i.ibb.co/gJg5Mqh/Capture.png)
-# Desktop-Translucence Theme - Support them the owners and recoders of this theme!
+> ### ⚠️ Please Notice, this is a recoded version of CapnKitten Translucent Theme. This is mine but credit for CapnKitten for the code and got rewritten by me. Its my own version so dont harass Him/Her about this. Thanks
+> # Desktop-Translucence Theme - Support them the owners and recoders of this theme!
 CapnKitten Websites:[![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url]
 
 NotAurora Website: [![Github][github-logo]][github-url-2] [![Discord][discord-logo]][discord-url-2]
-> ### ⚠️ Please Notice, this is a recoded version of CapnKitten Translucent Theme. This is mine but credit for CapnKitten for the code and got rewritten by me. Its my own version so dont harass Him/Her about this. Thanks
+
 
 #### A translucent/frosted desktop feel Discord theme
 <hr>
