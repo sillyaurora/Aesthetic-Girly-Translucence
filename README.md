@@ -6,6 +6,7 @@
 Current version: v1.0.6.3 (26/02/2021)
 
 Normal Version:
+
 [BetterDiscord download](https://betterdiscord.app/theme/Translucence)
 <br>
 [View source files](https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Translucence)
@@ -15,6 +16,11 @@ Vencord link
 https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css
 ```
 
+Custom Version: (Vencord is now supported, i will try to support bunny and betterdiscord.)
+Vencord link
+```
+https://raw.githubusercontent.com/sillyaurora/Desktop-Translucence/master/Desktop-Translucence.css
+```
 ## Previews
 
 #### Main chat area
