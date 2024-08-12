@@ -17,6 +17,7 @@ https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css
 ```
 
 Custom Version: (Vencord is now supported, i will try to support bunny and betterdiscord.)
+
 Vencord link
 ```
 https://raw.githubusercontent.com/sillyaurora/Desktop-Translucence/master/Desktop-Translucence.css
