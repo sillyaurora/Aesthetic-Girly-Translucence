@@ -13,7 +13,7 @@ NotAurora Website: [![Github][github-logo]][github-url-2] [![Discord][discord-lo
 Current version: v1.1 
 Custom Version: (Vencord and BetterDiscord is now supported, i will try to support bunny.)
 
-BetterDiscord: [Download](https://download1586.mediafire.com/sciniafe79bgimAnvP0I85Yt_sXR060ZGMVE4V24EgJXOyVAr_uVXdXFymUnMO-tyuoZkqm-lkZOnDPKhlyrB41N613n9cSxJgBlnc-otZpnW7PHW5zcqZx-zm9r3isiDysVTDXypfEHwfWKW1DRi-3532jDfmYSQme1EgML71lwRg/ap9fdeuquqf3qcr/Desktop-Translucent.theme.css) Official Release!
+BetterDiscord: [Download]([https://github.com/sillyaurora/Desktop-Translucence/releases/download/betterdiscord/Desktop-Translucence_Theme.zip) Official Release!
 
 Vencord link
 ```
