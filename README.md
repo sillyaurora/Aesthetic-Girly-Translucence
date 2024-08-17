@@ -45,7 +45,7 @@ To edit, please go to the main [github page](https://github.com/CapnKitten/Trans
 [paypal-url]: https://paypal.me/capnkitten
 
 [github-logo]: https://img.shields.io/static/v1?label=GitHub&message=Sponsor&style=flat&logo=github&color=black
-[github-logo-2]: https://i.ibb.co/HV6W5kY/i.png
+[github-logo-2]: https://img.shields.io/static/v1?label=Github&message=Follow&style=flat&logo=github&color=black
 [github-url]: https://github.com/sponsors/CapnKitten
 
 [discord-logo]: https://img.shields.io/static/v1?label=Discord&message=Server&style=flat&logo=discord&color=blue
