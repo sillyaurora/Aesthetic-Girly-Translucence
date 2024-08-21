@@ -1,16 +1,30 @@
-title: Desktop-Translucence Project
-email: pazonneilcedrickvoid@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Hello! This is my project called Desktop-Translucence. It is basically a custom discord theme. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-discord_username: sillyaurora. 
-github_username:  SillyAurora
-youtube_username: medemonhunter
-
 # Build settings
-remote_theme: pages-themes/cayman@v0.1.2
-show_downloads: true
+title: Desktop-Translucence # the main title
+tagline: Hello! This is my project called Desktop-Translucence. It is basically a discord theme. # it will display as the subtitle
+description: >- # used by seo meta and the atom feed
+  My project :>
+theme: 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-- jekyll-feed
+
+
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+
+author:
+  name:           'SillyAurora'
+  url:            https://sillyaurora.github.io/desktop-translucence
+
+paginate:         5
+
+# Custom vars
+version: 1.0
+
+github:
+  repo:           https://github.com/sillyaurora/desktop-translucence
