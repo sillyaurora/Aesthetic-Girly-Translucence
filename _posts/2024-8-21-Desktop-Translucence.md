@@ -22,7 +22,7 @@ BetterDiscord: [Download](https://github.com/sillyaurora/Desktop-Translucence/re
 
 Vencord link
 ```
-https://raw.githubusercontent.com/sillyaurora/Desktop-Translucence/master/Desktop-Translucence.css
+https://raw.githubusercontent.com/sillyaurora/projects/main/Desktop-Translucence.css
 ```
 ## Previews
 
