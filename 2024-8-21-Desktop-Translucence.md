@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Desktop-Translucence Project
+layout: page
+title: About
 ---
 
 ![discord-101](https://i.ibb.co/gJg5Mqh/Capture.png)
